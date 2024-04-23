@@ -1,0 +1,14 @@
+[
+  {
+    "EmployeeId": "8sd7sas8-28jf-22sa-s9as-8sa75is5znis",
+    "Employee": {
+      "employeeId": "8sd7sas8-28jf-22sa-s9as-8sa75is5znis",
+      "firstName": "John",
+      "lastName": "Smith",
+      "position": "Does It All",
+      "department": "Engineering"
+    },
+    "Salary": 125000.00,
+    "EffectiveDate": "2024-04-22T08:30:00"
+  }
+]
